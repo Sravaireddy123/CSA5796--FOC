@@ -1,0 +1,6 @@
+if [ $# -eq 0 ]; then
+if [ $# -eq 0 ]
+then
+  echo "Please provide a number n as argument."
+  exit 1
+fi
